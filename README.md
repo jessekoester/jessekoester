@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jessekoester
 - 👀 I’m interested in Hiking, Backpacking, Paintball, Code and Building Things
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React Hooks, GraphQl and React Native
+- 💞️ I’m looking to collaborate on any sort of fun projects
+- 📫 How to reach me JesseKoester@gmail.com
 
 <!---
 jessekoester/jessekoester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
